@@ -3,8 +3,8 @@ Feature: User Groups Filtering
 
     As an admin, I should be able to filter the user groups on the "Users" page.
 
-
-    #! Acceptance Criteria are missing :(
+    #* AC1: Admins should be able to filter the user groups on the Users page
+    #* AC2: There should be three options under the user groups dropdown menu: ALL, Librarian, and Students
 
 
     #TODO: Analyze the user story and create acceptance criteria yourself!
