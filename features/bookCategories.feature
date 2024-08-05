@@ -11,5 +11,7 @@ Feature: Book Categories
 
     # TODO: verify users see 21 book categories
 
+    # TODO: Verify that all 21 book categories are displayed under the Book Categories drop down
+
     
     #? Should there be more scenarios for this user story? Feel free to add more scenarios.
