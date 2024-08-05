@@ -9,7 +9,7 @@ const DEFAULT_TIMEOUT = 30000; // default timeout in milliseconds
 
 const browserSetup = {
   headless: false,
-  //slowMo: 1000,
+//  slowMo: 2000,
 };
 
 /**
