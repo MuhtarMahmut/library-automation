@@ -9,8 +9,10 @@ Feature: Add Users Functionality
     #! Please make sure to set the status of the newly added to "Inactive" after the automation is done
 
 
+    # TODO: Verify that the Add User button is displayed on the Users page
+    # TODO: Verify that the Add User button is enabled on the Users page
+    # TODO: Verify that the user can add a new student user successfully
+    # TODO: Verify that the user can add a new admin user successfully
+    # TODO: Verify that the newly added user is displayed in the Users table
+    # TODO: Feel free to add more...
 
-    #TODO: Analyze the user story and create acceptance criteria yourself!
-
-
-    #TODO: Create scenarios that cover all the acceptance criteria
